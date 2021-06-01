@@ -8,15 +8,6 @@
     <copyright>&amp;copy; 2021 Xuan Dang</copyright>
     <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Authentication for wearable devices</title>
-      <link>http://xuandt1289.github.io/project/wearables-authentication/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://xuandt1289.github.io/project/wearables-authentication/</guid>
-      <description>&lt;p&gt;Smartwatches are rapidly emerging to be the next generation of personal devices from the smartphone era due to their novel form factor and broad applications. However, their emergence also poses new challenges to securing user information. An important challenge is preventing unauthorized access to private information stored on the watch, for which a locking method is typically used. Due to smartwatches&amp;rsquo; limited display, the performance of locking methods offered on smartwatches may suffer from the fat-finger problem and is currently unknown. In this project, we present the first study to evaluate different locking methods for smartwatches. We then propose a new tap-based authentication method suitable for smartwatches and wearable devices equipped with a touch screen. We contribute to the ongoing research trend in authentication for smartwatches with a reference benchmark and interesting insights for future work.&lt;/p&gt;
 
   </channel>
 </rss>
