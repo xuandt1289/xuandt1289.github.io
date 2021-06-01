@@ -9,50 +9,6 @@
     <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication</title>
-      <link>http://xuandt1289.github.io/publication/mindyoursmses_bookchapter/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://xuandt1289.github.io/publication/mindyoursmses_bookchapter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kid on The Phone! Toward Automatic Detection of Children on Mobile Devices</title>
-      <link>http://xuandt1289.github.io/publication/kidonthephone/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://xuandt1289.github.io/publication/kidonthephone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tap-based User Authentication for Smartwatches</title>
-      <link>http://xuandt1289.github.io/publication/tapmein/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://xuandt1289.github.io/publication/tapmein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Deep Learning Model with Hierarchical LSTMs and Supervised Attention for Anti-Phishing</title>
-      <link>http://xuandt1289.github.io/publication/iwspa-ap/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://xuandt1289.github.io/publication/iwspa-ap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images</title>
-      <link>http://xuandt1289.github.io/publication/illusionpin/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://xuandt1289.github.io/publication/illusionpin/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Authentication for wearable devices</title>
