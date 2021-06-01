@@ -1,85 +1,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Toan Nguyen on Toan Nguyen</title>
-    <link>http://toannguyen.me/</link>
-    <description>Recent content in Toan Nguyen on Toan Nguyen</description>
+    <title>Xuan Dang on Xuan Dang</title>
+    <link>http://xuandt1289.github.io/</link>
+    <description>Recent content in Xuan Dang on Xuan Dang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Toan Nguyen</copyright>
+    <copyright>&amp;copy; 2021 Xuan Dang</copyright>
     <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication</title>
-      <link>http://toannguyen.me/publication/mindyoursmses_bookchapter/</link>
+      <link>http://xuandt1289.github.io/publication/mindyoursmses_bookchapter/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/mindyoursmses_bookchapter/</guid>
+      <guid>http://xuandt1289.github.io/publication/mindyoursmses_bookchapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kid on The Phone! Toward Automatic Detection of Children on Mobile Devices</title>
-      <link>http://toannguyen.me/publication/kidonthephone/</link>
+      <link>http://xuandt1289.github.io/publication/kidonthephone/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/kidonthephone/</guid>
+      <guid>http://xuandt1289.github.io/publication/kidonthephone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tap-based User Authentication for Smartwatches</title>
-      <link>http://toannguyen.me/publication/tapmein/</link>
+      <link>http://xuandt1289.github.io/publication/tapmein/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/tapmein/</guid>
+      <guid>http://xuandt1289.github.io/publication/tapmein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep Learning Model with Hierarchical LSTMs and Supervised Attention for Anti-Phishing</title>
-      <link>http://toannguyen.me/publication/iwspa-ap/</link>
+      <link>http://xuandt1289.github.io/publication/iwspa-ap/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/iwspa-ap/</guid>
+      <guid>http://xuandt1289.github.io/publication/iwspa-ap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images</title>
-      <link>http://toannguyen.me/publication/illusionpin/</link>
+      <link>http://xuandt1289.github.io/publication/illusionpin/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/illusionpin/</guid>
+      <guid>http://xuandt1289.github.io/publication/illusionpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Authentication for wearable devices</title>
-      <link>http://toannguyen.me/project/wearables-authentication/</link>
+      <link>http://xuandt1289.github.io/project/wearables-authentication/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/project/wearables-authentication/</guid>
+      <guid>http://xuandt1289.github.io/project/wearables-authentication/</guid>
       <description>&lt;p&gt;Smartwatches are rapidly emerging to be the next generation of personal devices from the smartphone era due to their novel form factor and broad applications. However, their emergence also poses new challenges to securing user information. An important challenge is preventing unauthorized access to private information stored on the watch, for which a locking method is typically used. Due to smartwatches&amp;rsquo; limited display, the performance of locking methods offered on smartwatches may suffer from the fat-finger problem and is currently unknown. In this project, we present the first study to evaluate different locking methods for smartwatches. We then propose a new tap-based authentication method suitable for smartwatches and wearable devices equipped with a touch screen. We contribute to the ongoing research trend in authentication for smartwatches with a reference benchmark and interesting insights for future work.&lt;/p&gt;
 
 &lt;p&gt;&lt;h3&gt;Publication:&lt;/h3&gt;
 &lt;ol style=&#34;list-style: decimal outside; font-size: 1.2em;&#34;&gt;
-    &lt;li&gt;&lt;b&gt;Toan Nguyen&lt;/b&gt; and Nasir Memon, &lt;i&gt;Tap-based User Authentication for Smartwatches&lt;/i&gt;, Computers &amp;#38; Security, Volume 78, September 2018, Pages 174-186
+    &lt;li&gt;&lt;b&gt;Xuan Dang&lt;/b&gt; and Nasir Memon, &lt;i&gt;Tap-based User Authentication for Smartwatches&lt;/i&gt;, Computers &amp;#38; Security, Volume 78, September 2018, Pages 174-186
     &lt;div class=&#34;pub-links&#34;&gt;
         &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://www.researchgate.net/publication/326111565_Tap-based_User_Authentication_for_Smartwatches&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/tapmein.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/tapmein.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Toan Nguyen&lt;/b&gt; and Nasir Memon, &lt;i&gt;Smartwatches Locking Methods: A Comparative Study&lt;/i&gt;, 3rd Workshop on “Who Are You?! Adventures in Authentication” at the Symposium on Usable Privacy and Security (&lt;a href=&#34;https://www.usenix.org/conference/soups2017/workshop-program/way2017&#34; target=&#34;_blank&#34;&gt;WAY 2017&lt;/a&gt;), USENIX, July 2017
+    &lt;li&gt;&lt;b&gt;Xuan Dang&lt;/b&gt; and Nasir Memon, &lt;i&gt;Smartwatches Locking Methods: A Comparative Study&lt;/i&gt;, 3rd Workshop on “Who Are You?! Adventures in Authentication” at the Symposium on Usable Privacy and Security (&lt;a href=&#34;https://www.usenix.org/conference/soups2017/workshop-program/way2017&#34; target=&#34;_blank&#34;&gt;WAY 2017&lt;/a&gt;), USENIX, July 2017
     &lt;div class=&#34;pub-links&#34;&gt;
         &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://www.usenix.org/system/files/conference/soups2017/way2017-nguyen_toan.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/smartwatches_study.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/smartwatches_study.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -96,22 +96,22 @@
     
     <item>
       <title>IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images</title>
-      <link>http://toannguyen.me/project/illusionpin/</link>
+      <link>http://xuandt1289.github.io/project/illusionpin/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/project/illusionpin/</guid>
+      <guid>http://xuandt1289.github.io/project/illusionpin/</guid>
       <description>&lt;p&gt;We address the problem of shoulder-surfing attacks on authentication schemes by proposing IllusionPIN (IPIN), a PIN-based authentication method that operates on touchscreen devices. IPIN uses the technique of hybrid images to blend two keypads with different digit orderings in such a way, that the user who is close to the device is seeing one keypad to enter her PIN, while the attacker who is looking at the device from a bigger distance is seeing only the other keypad. The user’s keypad is shuffled in every authentication attempt since the attacker may memorize the spatial arrangement of the pressed digits.&lt;/p&gt;
 
 &lt;p&gt;To reason about the security of IllusionPIN, we developed an algorithm which is based on human visual perception and estimates the minimum distance from which an observer is unable to interpret the keypad of the user. We tested our estimations with 84 simulated shoulder-surfing attacks from 21 different people. None of the attacks was successful against our estimations. In addition, we estimated the minimum distance from which a camera is unable to capture the visual information from the keypad of the user. Based on our analysis, it seems practically almost impossible for a surveillance camera to capture the PIN of a smartphone user when IPIN is in use.&lt;/p&gt;
 
 &lt;p&gt;&lt;h3&gt;Publication:&lt;/h3&gt;
 &lt;ol style=&#34;list-style: decimal outside; font-size: 1.2em;&#34;&gt;
-    &lt;li&gt;Athanasios Papadopoulos, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Emre Durmus, Nasir Memon, &lt;i&gt;IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images&lt;/i&gt;, IEEE Transactions on Information Forensics and Security (&lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7972980&#34; target=&#34;_blank&#34;&gt;TIFS&lt;/a&gt;), Volume 12, Issue 12, December 2017, Pages 2875-2889
+    &lt;li&gt;Athanasios Papadopoulos, &lt;b&gt;Xuan Dang&lt;/b&gt;, Emre Durmus, Nasir Memon, &lt;i&gt;IllusionPIN: Shoulder-Surfing Resistant Authentication Using Hybrid Images&lt;/i&gt;, IEEE Transactions on Information Forensics and Security (&lt;a href=&#34;http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7972980&#34; target=&#34;_blank&#34;&gt;TIFS&lt;/a&gt;), Volume 12, Issue 12, December 2017, Pages 2875-2889
     &lt;div class=&#34;pub-links&#34;&gt;
         &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://arxiv.org/pdf/1708.06508.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/illusionpin.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/illusionpin.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -134,20 +134,20 @@
     
     <item>
       <title>Cross-platform Phishing</title>
-      <link>http://toannguyen.me/project/cross-platform-phishing/</link>
+      <link>http://xuandt1289.github.io/project/cross-platform-phishing/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/project/cross-platform-phishing/</guid>
+      <guid>http://xuandt1289.github.io/project/cross-platform-phishing/</guid>
       <description>&lt;p&gt;The goal of anti-phishing techniques is to reduce the delivery rate of phishing emails, and anti-phishing training aims to decrease the phishing click-through rates. This paper presents the X-Platform Phishing Attack, a deceptive phishing attack with an alarmingly high delivery and click-through rates, and highlights a subclass of phishing attacks that existing anti-phishing methods do not seem to be able to address. The main characteristic of this attack is that an attacker is able to embed a malicious link within a legitimate message generated by service providers (e.g., Github, Google, Amazon) and sends it using their infrastructure to his targets. This technique results in the bypassing of existing anti-phishing filters because it utilizes reputable service providers to generate seemingly legitimate emails. This also makes it highly likely for the targets of the attack to click on the phishing link as the email id of a legitimate provider is being used. An X-Platform Phishing attack can use email-based messaging and notification mechanisms such as friend requests, membership invitations, status updates, and customizable gift cards to embed and deliver phishing links to their targets. We have tested the delivery and click-through rates of this attack experimentally, based on a customized phishing email tunneled through GitHub’s pull-request mechanism. We observed that 100% of X-Platform Phishing emails passed the anti-phishing systems and were delivered to the inbox of the target subjects. All of the participants clicked on phishing messages, and in some cases, forwarded the message to other project collaborators who also clicked on the phishing links.&lt;/p&gt;
 
 &lt;p&gt;&lt;h3&gt;Publication:&lt;/h3&gt;
 &lt;ol style=&#34;list-style: decimal outside; font-size: 1.2em;&#34;&gt;
-    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Nasir Memon, &lt;i&gt;X-Platform Phishing: Abusing Trust for Targeted Attacks&lt;/i&gt;, In: Brenner M. et al. (eds) Financial Cryptography and Data Security. FC 2017. Lecture Notes in Computer Science, vol 10323. Springer, Cham, April 2017, pp 587-596&lt;/li&gt;
+    &lt;li&gt;Hossein Siadati, &lt;b&gt;Xuan Dang&lt;/b&gt;, Nasir Memon, &lt;i&gt;X-Platform Phishing: Abusing Trust for Targeted Attacks&lt;/i&gt;, In: Brenner M. et al. (eds) Financial Cryptography and Data Security. FC 2017. Lecture Notes in Computer Science, vol 10323. Springer, Cham, April 2017, pp 587-596&lt;/li&gt;
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/X-Platform_Phishing.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/X-Platform_Phishing.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/xplatform.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/xplatform.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -157,32 +157,32 @@
     
     <item>
       <title>Finger-drawn PIN Authentication</title>
-      <link>http://toannguyen.me/project/draw-a-pin/</link>
+      <link>http://xuandt1289.github.io/project/draw-a-pin/</link>
       <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/project/draw-a-pin/</guid>
+      <guid>http://xuandt1289.github.io/project/draw-a-pin/</guid>
       <description>&lt;p&gt;We developed Draw-A-PIN, a user authentication system on a device with a touch interface that supports the use of PINs. In Draw-A-PIN system, the user is asked to draw her PIN on the touch screen instead of typing it on a keypad. Consequently, Draw-A-PIN could offer better security by utilizing drawing traits or behavioral biometrics as an additional authentication factor beyond just the secrecy of the PIN. In addition, Draw-A-PIN inherently provides acceptability and usability by leveraging user familiarity with PINs.&lt;/p&gt;
 
 &lt;p&gt;To evaluate the security and usability of the approach, Draw-A-PIN was implemented on Android phones and 3203 legitimate finger-drawn PINs and 4655 forgery samples were collected through an extensive and unsupervised field experiment over 10 consecutive days. Experimental results show that Draw-A-PIN achieves an equal error rate of 4.84% in a scenario where the attacker already knows the PIN by shoulder surfing. Finally, results from a user study based on the System Usability Scale questionnaire confirm that Draw-A-PIN is highly usable.&lt;/p&gt;
 
 &lt;p&gt;&lt;h3&gt;Publication:&lt;/h3&gt;
 &lt;ol style=&#34;list-style: decimal outside; font-size: 1.2em;&#34;&gt;
-    &lt;li&gt;&lt;b&gt;Toan Nguyen&lt;/b&gt;, Napa Sae-Bae, Nasir Memon, &lt;i&gt;DRAW-A-PIN: Authentication Using Finger-drawn PIN on Touch Devices&lt;/i&gt;, &lt;a href=&#34;http://www.sciencedirect.com/science/journal/01674048&#34; target=&#34;_blank&#34;&gt;Computers &amp;#38; Security&lt;/a&gt;, Volume 66, May 2017, Pages 115-128
+    &lt;li&gt;&lt;b&gt;Xuan Dang&lt;/b&gt;, Napa Sae-Bae, Nasir Memon, &lt;i&gt;DRAW-A-PIN: Authentication Using Finger-drawn PIN on Touch Devices&lt;/i&gt;, &lt;a href=&#34;http://www.sciencedirect.com/science/journal/01674048&#34; target=&#34;_blank&#34;&gt;Computers &amp;#38; Security&lt;/a&gt;, Volume 66, May 2017, Pages 115-128
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/Draw-A-PIN.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/Draw-A-PIN.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/drawapin.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/drawapin.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;b&gt;Toan Van Nguyen&lt;/b&gt;, Napa Sae-Bae, Nasir Memon, &lt;i&gt;Finger-drawn PIN Authentication on Touch Devices&lt;/i&gt;, in Proceedings of International Conference on Image Processing (ICIP), pp. 5002 - 5006, Paris, France, October 2014
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/Finger-Drawn_PIN_ICIP2014_ToanNguyen.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/Finger-Drawn_PIN_ICIP2014_ToanNguyen.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/fingerdrawpin.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/fingerdrawpin.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -193,40 +193,40 @@
     
     <item>
       <title>Verification Code Phishing Attack</title>
-      <link>http://toannguyen.me/project/vcfa/</link>
+      <link>http://xuandt1289.github.io/project/vcfa/</link>
       <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/project/vcfa/</guid>
+      <guid>http://xuandt1289.github.io/project/vcfa/</guid>
       <description>&lt;p&gt;We investigated a phishing attack in which attackers bypass two-factor authentication by luring users to forward verification codes delivered via SMS messages to them. We found an attack that can lure &lt;strong&gt;50%&lt;/strong&gt; of the users to give up their verification codes. We found that our robust messaging approach reduces the success of the most effective social engineering attack to &lt;strong&gt;8%&lt;/strong&gt;, or a sixth of its success against Google&amp;rsquo;s standard two-factor verification code messages.&lt;/p&gt;
 
 &lt;p&gt;&lt;h3&gt;Publication:&lt;/h3&gt;
 &lt;ol style=&#34;list-style: decimal outside; font-size: 1.2em;&#34;&gt;
-    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Payas Gupta, Markus Jakobsson, Nasir Memon, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;https://doi.org/10.1007/978-3-030-43754-1_1&#34; target=&#34;_blank&#34;&gt;Security, Privacy and User Interaction&lt;/a&gt;, Springer, Cham, October 2020, Pages 5–22
+    &lt;li&gt;Hossein Siadati, &lt;b&gt;Xuan Dang&lt;/b&gt;, Payas Gupta, Markus Jakobsson, Nasir Memon, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;https://doi.org/10.1007/978-3-030-43754-1_1&#34; target=&#34;_blank&#34;&gt;Security, Privacy and User Interaction&lt;/a&gt;, Springer, Cham, October 2020, Pages 5–22
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/MindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/MindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;/li&gt;
-    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Payas Gupta, Nasir Memon, Markus Jakobsson, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;http://www.sciencedirect.com/science/journal/01674048&#34; target=&#34;_blank&#34;&gt;Computers &amp;#38; Security&lt;/a&gt;, Volume 65, March 2017, Pages 14–28
+    &lt;li&gt;Hossein Siadati, &lt;b&gt;Xuan Dang&lt;/b&gt;, Payas Gupta, Nasir Memon, Markus Jakobsson, &lt;i&gt;Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication&lt;/i&gt;, &lt;a href=&#34;http://www.sciencedirect.com/science/journal/01674048&#34; target=&#34;_blank&#34;&gt;Computers &amp;#38; Security&lt;/a&gt;, Volume 65, March 2017, Pages 14–28
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/MindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/MindYourSMSes.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/mindyoursmses.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;/li&gt;
-    &lt;li&gt;Hossein Siadati, &lt;b&gt;Toan Nguyen&lt;/b&gt;, Nasir Memon, &lt;i&gt;Verification Code Forwarding Attack&lt;/i&gt;, &lt;a href=&#34;https://passwordscon.org/&#34; target=&#34;_blank&#34;&gt;PasswordsCon&lt;/a&gt;, University of Cambridge, December 2015
+    &lt;li&gt;Hossein Siadati, &lt;b&gt;Xuan Dang&lt;/b&gt;, Nasir Memon, &lt;i&gt;Verification Code Forwarding Attack&lt;/i&gt;, &lt;a href=&#34;https://passwordscon.org/&#34; target=&#34;_blank&#34;&gt;PasswordsCon&lt;/a&gt;, University of Cambridge, December 2015
     &lt;div class=&#34;pub-links&#34;&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/VCFA_PasswordsCon2015_ToanNguyen.pdf&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/VCFA_PasswordsCon2015_ToanNguyen.pdf&#34; target=&#34;_blank&#34;&gt;
           PDF
         &lt;/a&gt;
-        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://toannguyen.me/cite/vcfa.bib&#34; target=&#34;_blank&#34;&gt;
+        &lt;a class=&#34;btn btn-primary btn-outline btn-xs&#34; href=&#34;https://xuandt1289.github.io/cite/vcfa.bib&#34; target=&#34;_blank&#34;&gt;
           Cite
         &lt;/a&gt;
     &lt;/div&gt;
@@ -246,46 +246,46 @@
     
     <item>
       <title>Smartwatches Locking Methods: A Comparative Study</title>
-      <link>http://toannguyen.me/publication/way2017/</link>
+      <link>http://xuandt1289.github.io/publication/way2017/</link>
       <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/way2017/</guid>
+      <guid>http://xuandt1289.github.io/publication/way2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Draw-A-PIN: Authentication using finger-drawn PIN on touch devices</title>
-      <link>http://toannguyen.me/publication/drawapin/</link>
+      <link>http://xuandt1289.github.io/publication/drawapin/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/drawapin/</guid>
+      <guid>http://xuandt1289.github.io/publication/drawapin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X-Platform Phishing: Abusing Trust for Targeted Attacks</title>
-      <link>http://toannguyen.me/publication/x-platform-phishing/</link>
+      <link>http://xuandt1289.github.io/publication/x-platform-phishing/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/x-platform-phishing/</guid>
+      <guid>http://xuandt1289.github.io/publication/x-platform-phishing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mind your SMSes: Mitigating Social Engineering in Second Factor Authentication</title>
-      <link>http://toannguyen.me/publication/mindyoursmses/</link>
+      <link>http://xuandt1289.github.io/publication/mindyoursmses/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/mindyoursmses/</guid>
+      <guid>http://xuandt1289.github.io/publication/mindyoursmses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification Code Forwarding Attack</title>
-      <link>http://toannguyen.me/publication/vcfa/</link>
+      <link>http://xuandt1289.github.io/publication/vcfa/</link>
       <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://toannguyen.me/publication/vcfa/</guid>
+      <guid>http://xuandt1289.github.io/publication/vcfa/</guid>
       <description></description>
     </item>
     
