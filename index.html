@@ -276,27 +276,12 @@
           <div class="card-text">
             <h4><a href="http://xuandt1289.github.io/project/wearables-authentication/" >Regularization paths for Cox's models with grouped predictors</a></h4>
             <div class="card-desription">
-              <p>The rapid development of next-generation sequencing technologies has made it
-possible to measure the expression profiles of thousands of genes simultaneously.
-Often, there exist group structures among genes manifesting biological pathways and
-functional relationships. Analyzing such high-dimensional and structural datasets can
-be computationally costly and results in the complicate models that are hard to
-interpret. To address this, variable selection such as penalized methods are often
-taken. Here, we focus on the Cox's proportional hazards model to deal with censoring
-data. Most of the existing penalized methods for Cox's model are the group lasso
-methods that show deficiencies, including the over-shrinkage problem. In addition, the
-contemporary algorithms either exhibit the loss of efficiency or require the group-wise
-orthonormality assumption. Hence, efficient algorithms for general design matrices are
-needed to enable practical applications. In this paper, we investigate and
-comprehensively evaluate three group penalized methods for Cox's model: the group
-lasso and two nonconvex penalization methods including group SCAD and group MCP
-that have several advantages over the group lasso. These methods are able to
-perform group selection in both non-overlapping and overlapping cases. We have
-developed the fast and stable algorithms and a new package grpCox to fit these
-models without the initial orthonormalization step. The run time of grpCox is improved
-significantly over grpsurv (for the non-overlapping case), grpregOverlap (overlapping),
-and SGL. In addition, grpCox is better than grpsurv and comparable with SGL in term
-of variable selection.</p>
+              <p>We consider the feature selection for high-dimensional and structural datasets. Specifically, we investigate and comprehensively evaluate three group penalized methods for Cox's model: the group
+                lasso and two nonconvex penalization methods including group SCAD and group MCP that have several advantages over the group lasso. We have
+                developed the fast and stable algorithms and a new package grpCox to fit these
+                models without the initial orthonormalization step. These methods are able to
+                perform group selection in both non-overlapping and overlapping cases. The run time of grpCox decreases 100x comparing with existing packages. 
+                In addition, grpCox is better than grpsurv and comparable with SGL in term of variable selection.</p>
             </div>
           </div>
         </div>
