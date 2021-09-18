@@ -472,31 +472,30 @@ window.addEventListener("load", function(){
         <p>We focus on penalized Cox’s models to deal with the high-dimensional survival data with
         group predictors. Most of the existing penalized methods for Cox’s model are the group lasso methods
         that show deficiencies, including the over-shrinkage problem. In addition, the contemporary
-        algorithms either exhibit the
-                <span id="dots2">...</span><span id="more2">loss of efficiency or require the group-wise orthonormality assumption.
+        algorithms either exhibit the <span id="dots2">...</span><span id="more2">loss of efficiency or require the group-wise orthonormality assumption.
         We investigate and comprehensively evaluate three group penalized methods
         for Cox’s models: the group lasso and two nonconvex penalization methods—group SCAD and
         group MCP—that have several advantages over the group lasso. We develop the fast and stable
         algorithms to fit these models without the initial orthonormalization
         step. These methods perform group selection in both non-overlapping and overlapping cases.</span></p>
-            <button onclick="myFunction2()" id="myBtn2">Read more</button>
-            <script>
-                function myFunction2() {
-                var dots = document.getElementById("dots2");
-                var moreText = document.getElementById("more2");
-                var btnText = document.getElementById("myBtn2");
+        <button onclick="myFunction2()" id="myBtn2">Read more</button>
+        <script>
+            function myFunction2() {
+            var dots = document.getElementById("dots2");
+            var moreText = document.getElementById("more2");
+            var btnText = document.getElementById("myBtn2");
 
-                if (dots.style.display === "none") {
-                dots.style.display = "inline";
-                btnText.innerHTML = "Read more";
-                moreText.style.display = "none";
-                } else {
-                dots.style.display = "none";
-                btnText.innerHTML = "Read less";
-                moreText.style.display = "inline";
-                }
-                }
-            </script>
+            if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more";
+            moreText.style.display = "none";
+            } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less";
+            moreText.style.display = "inline";
+            }
+            }
+        </script>
     </div>
     <div class="stream-meta article-metadata">
     <div class="article-metadata">
@@ -513,95 +512,34 @@ window.addEventListener("load", function(){
     </div>
     </div>
 
-    <div class="card-simple">
-    <div class="article-metadata">
-
-    <div>
-
-    <span><a href="/authors/annielyu/">Annie Lyu</a></span>, <span><a href="/authors/emily/">Emily J. Berg</a></span>, <span><a href="/authors/heike/">Heike Hofmann</a></span>
-    </div>
-
-    <span class="article-date">
-
-    July 2020
-    </span>
-
-    <span class="middot-divider"></span>
-    <span class="pub-publication">
-
-    Biometrical Journal
-
-    </span>
-
-    </div>
-
-    <a href="/publication/sae-zero/">
-    <img src="/publication/sae-zero/featured_hu1e95518265b18338a2cc61f817a2df19_202595_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="">
-    </a>
-
-    <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/sae-zero/">Empirical Bayes small area prediction under a zero-inflated lognormal model with correlated random area effects</a>
-    </h3>
-
-
-    <div class="article-style">
-    <p>Soil erosion assessment for the counties in South Dakota.</p>
-    </div>
-
-    <div class="btn-links">
-
-    <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-    data-filename="/publication/sae-zero/cite.bib">
-    Cite
-    </button>
-
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/XiaodanLyu/zero-sae-bj-2020" target="_blank" rel="noopener">
-    Code
-    </a>
-
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/XiaodanLyu/saezero" target="_blank" rel="noopener">
-    Dataset
-    </a>
-
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/JSM2018Poster_Lyu.pdf" target="_blank" rel="noopener">
-    Poster
-    </a>
-
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/ZI_LN_Cor.html" target="_blank" rel="noopener">
-    Slides
-    </a>
-    <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/bimj.202000029" target="_blank" rel="noopener">
-    DOI
-    </a>
-    </div>
-
-    </div>
-
      <div class="media stream-item">
-<div class="media-body">
-<h3 class="article-title mb-0 mt-0">
-  <a href="https://cran.r-project.org/web/packages/L1mstate/index.html" >L1mstate R package</a>
-</h3>
-<div class="article-style">
-  An R package fitting the regularization path of the L1-regularized multi-state models since they can exploit sparsity structure of input. Different tuning regularization parameter methods are provided. The cumulative hazard rate estimation and the transition probability predictions can be made from the fitted models.
-</div>
-<div class="stream-meta article-metadata">
-<div class="article-metadata">
-<div>
-<span><a href="https://cran.r-project.org/web/packages/L1mstate/index.html">Xuan Dang</a></span>
-</div>
-<span class="article-date"> Feb 20, 2020 </span>
-<span class="middot-divider"></span>
-<span class="article-categories"><i class="fas fa-folder mr-1"></i><a href="/categories/r/">R</a></span>
-</div>
-</div>
-</div>
-<div class="ml-3">
-<a href="https://cran.r-project.org/web/packages/L1mstate/index.html" >
-  <img src="/img/l1mstate_logo.png" alt="">
-</a>
-</div>
-</div>
+    <div class="media-body">
+    <h3 class="article-title mb-0 mt-0">
+      <a href="https://github.com/xuandt1289/L1mstate" >L1-Regularized Multi-state Models</a>
+    </h3>
+    <div class="article-style">
+        We study the multi-state models to analyze longitudinal data, in which the change of
+        status over time is of interest. Due to the lack of an efficient and practical variable selection tool
+        to practitioners, we develop the L1-regularized multi-state model framework for simultaneous parameter
+        estimation and variable selection. We use a local quadratic approximation
+        of the log-partial likelihood and devise the one-step coordinate descent algorithm to solve the corresponding
+        optimization problem, which can offer significant improvement on the computational
+        efficiency. The proposed method is implemented in our R package L1mstate.
+    </div>
+    <div class="stream-meta article-metadata">
+    <div class="article-metadata">
+    <span class="article-date"> Feb 20, 2020 </span>
+    <span class="middot-divider"></span>
+    <span class="article-categories"><i class="fas fa-folder mr-1"></i><a href="/categories/r/">R</a></span>
+    </div>
+    </div>
+    </div>
+    <div class="ml-3">
+    <a href="https://github.com/xuandt1289/L1mstate" >
+      <img src="/img/l1mstate_img.png" alt="">
+    </a>
+    </div>
+    </div>
 
      <div class="media stream-item">
 <div class="media-body">
