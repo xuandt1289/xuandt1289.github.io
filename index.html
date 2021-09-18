@@ -302,9 +302,26 @@ window.addEventListener("load", function(){
           <a href="https://cran.r-project.org/web/packages/grpCox/index.html" >grpCox R package</a>
         </h3>
         <div class="article-style">
-            <span class="teaser">An R package fitting the penalized Cox models with both non-overlapping and overlapping grouped penalties including the group lasso, group smoothly clipped absolute deviation (SCAD), and group minimax concave (MCP) penalty. The algorithms combine the MM approach and group-wise descent with some computational tricks including the screening, active set, and warm-start.</span>
-            <span class="complete"> Different tuning regularization parameter methods are provided.</span>
-            <span class="more">more...</span>
+            <p>An R package fitting the penalized Cox models with both non-overlapping and overlapping grouped penalties including the group lasso, group smoothly clipped absolute deviation (SCAD), and group minimax concave (MCP) penalty. The algorithms combine the MM approach and group-wise descent with some computational tricks including the screening, active set, and warm-start.
+                <span id="dots">...</span><span id="more">Different tuning regularization parameter methods are provided.</span></p>
+            <button onclick="myFunction()" id="myBtn">Read more</button>
+            <script>
+            function myFunction() {
+            var dots = document.getElementById("dots");
+            var moreText = document.getElementById("more");
+            var btnText = document.getElementById("myBtn");
+
+            if (dots.style.display === "none") {
+            dots.style.display = "inline";
+            btnText.innerHTML = "Read more";
+            moreText.style.display = "none";
+            } else {
+            dots.style.display = "none";
+            btnText.innerHTML = "Read less";
+            moreText.style.display = "inline";
+            }
+            }
+            </script>
         </div>
         <div class="stream-meta article-metadata">
         <div class="article-metadata">
@@ -329,13 +346,13 @@ window.addEventListener("load", function(){
         <div class="article-style">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas vitae scel<span id="dots">...</span><span id="more">erisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta.</span></p>
             <button onclick="myFunction()" id="myBtn">Read more</button>
-            
+
             <script>
             function myFunction() {
             var dots = document.getElementById("dots");
             var moreText = document.getElementById("more");
             var btnText = document.getElementById("myBtn");
-            
+
             if (dots.style.display === "none") {
             dots.style.display = "inline";
             btnText.innerHTML = "Read more";
@@ -347,7 +364,7 @@ window.addEventListener("load", function(){
             }
             }
             </script>
-            
+
         </div>
         <div class="stream-meta article-metadata">
         <div class="article-metadata">
@@ -363,8 +380,8 @@ window.addEventListener("load", function(){
         </a>
       </div>
     </div>
-        
-        
+
+
 
     <div class="media stream-item">
     <div class="media-body">
