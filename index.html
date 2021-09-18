@@ -518,13 +518,32 @@ window.addEventListener("load", function(){
       <a href="https://github.com/xuandt1289/L1mstate" >L1-Regularized Multi-state Models</a>
     </h3>
     <div class="article-style">
-        We study the multi-state models to analyze longitudinal data, in which the change of
+        <p>We study the multi-state models to analyze longitudinal data, in which the change of
         status over time is of interest. Due to the lack of an efficient and practical variable selection tool
         to practitioners, we develop the L1-regularized multi-state model framework for simultaneous parameter
         estimation and variable selection. We use a local quadratic approximation
-        of the log-partial likelihood and devise the one-step coordinate descent algorithm to solve the corresponding
+        of the log-partial
+        <span id="dots3">...</span><span id="more3">likelihood and devise the one-step coordinate descent algorithm to solve the corresponding
         optimization problem, which can offer significant improvement on the computational
-        efficiency. The proposed method is implemented in our R package L1mstate.
+        efficiency. The proposed method is implemented in our R package L1mstate.</span></p>
+        <button onclick="myFunction3()" id="myBtn3">Read more</button>
+            <script>
+                function myFunction3() {
+                var dots = document.getElementById("dots3");
+                var moreText = document.getElementById("more3");
+                var btnText = document.getElementById("myBtn3");
+
+                if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "Read more";
+                moreText.style.display = "none";
+                } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "Read less";
+                moreText.style.display = "inline";
+                }
+                }
+            </script>
     </div>
     <div class="stream-meta article-metadata">
     <div class="article-metadata">
