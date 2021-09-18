@@ -426,7 +426,7 @@ window.addEventListener("load", function(){
       <a href="https://xuandt1289.github.io/" >Human cells and crowd counting using NNs</a>
     </h3>
         <div class="article-style">
-          <p>Count the number of objects within images by applying deep learning techniques. Focused on detection-based approach and density-map approach using NNs. Implemented different deep networks based on density-map approach such as U-Net, MCNN, CSRNet, ASNet… Presented a survey and a comprehensive evaluation of various deep networks for object detection 
+          <p>Count the number of objects within images by applying deep learning techniques. Focused on detection-based approach and density-map approach using NNs. Implemented different deep networks based on density-map approach such as U-Net, MCNN, CSRNet, ASNet… Presented a survey and a comprehensive evaluation of various deep networks for object detection
                 <span id="dots1">...</span><span id="more1">such as one stage detector (YOLO, SSD), double stage detector (R-CNN, faster R-CNN), end-to-end detectors using LSTM or Transformers.</span></p>
             <button onclick="myFunction1()" id="myBtn1">Read more</button>
 
@@ -469,15 +469,34 @@ window.addEventListener("load", function(){
       <a href="https://github.com/xuandt1289/grpCox" >Regularization paths for Cox's models with grouped predictors</a>
     </h3>
     <div class="article-style">
-        We focus on penalized Cox’s models to deal with the high-dimensional survival data with
+        <p>We focus on penalized Cox’s models to deal with the high-dimensional survival data with
         group predictors. Most of the existing penalized methods for Cox’s model are the group lasso methods
         that show deficiencies, including the over-shrinkage problem. In addition, the contemporary
-        algorithms either exhibit the loss of efficiency or require the group-wise orthonormality assumption.
+        algorithms either exhibit the
+                <span id="dots2">...</span><span id="more2">loss of efficiency or require the group-wise orthonormality assumption.
         We investigate and comprehensively evaluate three group penalized methods
         for Cox’s models: the group lasso and two nonconvex penalization methods—group SCAD and
         group MCP—that have several advantages over the group lasso. We develop the fast and stable
         algorithms to fit these models without the initial orthonormalization
-        step. These methods perform group selection in both non-overlapping and overlapping cases.
+        step. These methods perform group selection in both non-overlapping and overlapping cases.</span></p>
+            <button onclick="myFunction2()" id="myBtn2">Read more</button>
+            <script>
+                function myFunction2() {
+                var dots = document.getElementById("dots2");
+                var moreText = document.getElementById("more2");
+                var btnText = document.getElementById("myBtn2");
+
+                if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "Read more";
+                moreText.style.display = "none";
+                } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "Read less";
+                moreText.style.display = "inline";
+                }
+                }
+            </script>
     </div>
     <div class="stream-meta article-metadata">
     <div class="article-metadata">
